@@ -9,7 +9,7 @@ NewsBriefly is a powerful full-stack AI application that automatically scrapes t
 
 ## 🚀 Live Demo (Optional GIF Preview)
 
-![NewsBriefly Demo](demo.gif)
+![NewsBriefly Demo](Demo.gif)
 
 ---
 
